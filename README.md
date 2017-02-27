@@ -1,1 +1,2 @@
-# disk_usage_summary
+# disk_usage_summar
+ディスク使用量の増加割合、増加予想をサマリするユーティリティを作りたい
